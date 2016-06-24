@@ -20,6 +20,7 @@ public class ApplicationReconcile
 	String conTotRecon="";
 	String conReconDiff="";
 	String comCompany="";
+	
 	//Calculate Reconilation Difference by delimiter    
 	public double calculateReconDiff(String line, String delims)
 	{
